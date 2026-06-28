@@ -1,6 +1,8 @@
-# Wayla
+# What is Wayla?
 
-# Wayla — High-Level Design (HLD)
+Wayla is an AI travel companion that helps people plan trips, discover places, and get personalized recommendations — not just static lists from generic travel sites.
+
+## High-Level Design (HLD)
 
 This document describes the Wayla platform architecture: how clients reach the API, how traffic is secured and routed, and how services inside the VPC communicate.
 
